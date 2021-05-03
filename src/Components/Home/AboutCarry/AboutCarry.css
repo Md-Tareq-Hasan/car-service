@@ -1,0 +1,24 @@
+.carry-header{
+   text-align: center;
+   margin-top: 40px;
+}
+.about{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 50px;
+   align-items: center;
+    
+}
+.about-boarder i{
+font-size: 50px;
+}
+.about-boarder{
+    display: flex;
+    background: #f4f8ff none repeat scroll 0 0;
+    color: #7c8393;
+    border: 1px solid #eaeff9;
+    margin-top: 15px;
+    padding: 40px;
+    margin: 5px;
+    
+}
